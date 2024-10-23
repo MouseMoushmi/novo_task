@@ -1,0 +1,6 @@
+com/learning/novosoft/controller/ChatBotController.class
+com/learning/novosoft/service/ChatBotService.class
+com/learning/novosoft/model/ChatBot.class
+repository/ChatBotRepository.class
+com/learning/novosoft/NovosoftApplication.class
+com/learning/novosoft/model/DatabaseSequence.class
